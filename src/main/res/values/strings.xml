@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">isOnlineConceptual</string>
+    <string name="isonline_logged">App is Online logged</string>
+    <string name="kotlin_activity_link">to Kotlin Activity…</string>
+    <string name="java_activity_link">to Java Activity…</string>
+    <string name="kotlin_display_process">Kotlin network processing…</string>
+    <string name="java_display_process">Java network processing…</string>
+    <string name="isonline_true">Connection Online…</string>
+    <string name="isonline_false">Connection Offline or Unstable…</string>
+
+</resources>
